@@ -1,1 +1,10 @@
+body {
+    background-color: darkgrey;
+    color: crimson;
+}
 
+.judul-besar {
+    color: blue;
+    font-size: 30px;
+    font-family: Franklin Gothic Medium;
+}
